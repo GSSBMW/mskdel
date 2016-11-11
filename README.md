@@ -1,6 +1,9 @@
 **MaskDelete** is one tool, in order to delete some files in *folder_A*, with all files in *folder_B* as a MASK. All the files, which existing in *folder_A*, but not existing in *folder_B*, are to be deleted, according to the file name, but ignoring file suffix (e.g. JPG, txt, tar). 
 
-**NOTE** that this is a tool to delete files, so make sure its functionality before using it.
+**NOTE** that this is one tool to delete files, so make sure its functionality before using it.
+
+# Status
+To be completed.
 
 # Motivation
 The motivation why I write this tool is for photography. Nowadays, some of cameras can generate both JPG and RAW photos for one shot. JPG format is for preview, and RAW is for the final output. Thus, after exporting all the photos from camera to computer, I will make a simple process to get rid of unsuccessful photos:
