@@ -15,16 +15,16 @@ The motivation why I write this tool is for photography. Nowadays, some of camer
 
 One simple example is shown below:
 
-| Original | Classfication | \*	        | Preview and Filter | \*         | Execute mskdel | \*          |
-|:--------:|:-------------:|:----------:|:------------------:|:----------:|:--------------:|:-----------:|
-| 1.JPG	   | JPG folder    | RAW folder | JPG folder         | RAW folder | JPG folder     | RAW folder  |
-| 1.CR2	   | 1.JPG		     | 1.CR2      | 2.JPG	             | 1.CR2      | 2.JPG	         | 2.CR2       |
-| 2.JPG	   | 2.JPG		     | 2.CR2      | 4.JPG	             | 4.CR2      | 4.JPG	         | 4.CR2       |
-| 2.CR2	   | 3.JPG		     | 3.CR2      |      	             | 3.CR2      |      	         |             |
-| 3.JPG	   | 4.JPG		     | 4.CR2      |     	             | 4.CR2      |                |             |
-| 3.CR2	   |               |            |		                 |            |		             |             |
-| 4.JPG	   |               |            |		                 |            |		             |             |
-| 4.CR2	   |               |            |		                 |            |		             |             |
+| Original | Classfication | \*	        | Preview and Filter | \*         | Execute mskdel | \*          | Other post processing |
+|:--------:|:-------------:|:----------:|:------------------:|:----------:|:--------------:|:-----------:|:---------------------:|
+| 1.JPG	   | JPG folder    | RAW folder | JPG folder         | RAW folder | JPG folder     | RAW folder  | -                     |       
+| 1.CR2	   | 1.JPG		     | 1.CR2      | 2.JPG	             | 1.CR2      | 2.JPG	         | 2.CR2       | -                     |
+| 2.JPG	   | 2.JPG		     | 2.CR2      | 4.JPG	             | 4.CR2      | 4.JPG	         | 4.CR2       | -                     |
+| 2.CR2	   | 3.JPG		     | 3.CR2      |      	             | 3.CR2      |      	         |             |                       |
+| 3.JPG	   | 4.JPG		     | 4.CR2      |     	             | 4.CR2      |                |             |                       |
+| 3.CR2	   |               |            |		                 |            |		             |             |                       |
+| 4.JPG	   |               |            |		                 |            |		             |             |                       |
+| 4.CR2	   |               |            |		                 |            |		             |             |                       |
 
 # Usage
 Execute command:
